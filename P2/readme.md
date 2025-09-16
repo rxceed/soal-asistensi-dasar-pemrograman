@@ -7,5 +7,5 @@
    -Pemain dapat melakukan input dalam satu giliran sebanyak 5 perintah, dengan format: perintah merupakan string 5 karakter tanpa spasi, perintah gunting diwakili oleh simbol <, perintah batu diwakili oleh simbol . (titik), perintah kertas diwakili oleh ]. Contoh perintah gunting-gunting-kertas-batu-batu: <<].. <br>
    -Permainan 2 pemain, dengan pemain pertama melakukan input terlebih dahulu. <br>
    -Setiap pemain diberi modal awal 5 nyawa. Pada akhir giliran pemain dengan sisa nyawa terbanyak adalah pemenangnya. <br>
-Boleh menggunakan bantuan AI, tapi gunakanlah secara bijak! Demonstrasikan saat asistensi!
+Boleh mencari referensi di internet, tapi gunakanlah secara bijak! Demonstrasikan saat asistensi!
 5. Bawalah laptop pada saat asistensi untuk live coding! Hint: soalnya berhubungan dengan pola.
